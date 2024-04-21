@@ -8,7 +8,7 @@
 
 
 ## 💫 About Me:
-I'm Imane (Eman), a passionate tech enthusiast from Algeria. I hold degrees in computer science from the University of Djelfa, Algeria.<br><br>- 🎓 Currently pursuing a Front-End Web Development bootcamp to enhance programming skills.<br>- ⭐ Check out my coding projects in the repositories section!<br>- 💬 I'm open to connecting and discussing tech, AI, and programming.<br>- 🧩 Passionate about problem-solving and mastering AI for societal impact.<br>- ☕ A coffee enthusiast ☕️ and a lover of cooking Algerian delicacies.<br>- 😄 Pronouns: She/Her.<br>- 🌍 Fascinated by exploring diverse cultures, learning new things, and dreaming of worldwide travel adventures.
+I'm Imane (Eman), a passionate tech enthusiast from Algeria. I hold degrees in computer science from the University of Djelfa, Algeria.<br><br>- 🎓 Front-End Web Development Re:Coded bootcamp Aalumni.<br>- ⭐ Check out my coding projects in the repositories section!<br>- 💬 I'm open to connecting and discussing tech, AI, and programming.<br>- 🧩 Passionate about problem-solving and mastering AI for societal impact.<br>- ☕ A coffee enthusiast ☕️ and a lover of cooking Algerian delicacies.<br>- 😄 Pronouns: She/Her.<br>- 🌍 Fascinated by exploring diverse cultures, learning new things, and dreaming of worldwide travel adventures.
 
 
 ## 🌐 Socials:
